@@ -53,4 +53,4 @@
 
 | 日期 | 說明 | 連結 | 連結存檔 |
 | ---- | ---- | ---- | -------- |
-| 2021/09/01 | 點數機制更改 | https://www.bookwalker.com.tw/tools/announce | https://web.archive.org/web/20211121183841/https://www.bookwalker.com.tw/tools/announce |
+| 2021/09/01 | 點數機制更改 | https://www.bookwalker.com.tw/tools/announce | [Internet Archive](https://web.archive.org/web/20211121183841/https://www.bookwalker.com.tw/tools/announce) |
