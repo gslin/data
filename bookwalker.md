@@ -46,3 +46,9 @@
 | 2021/11/10 | 6折 | 0.6 |
 | 2021/11/17 | 文學小說點數50倍 | 0.667 |
 | 2021/11/22 | 85折 + 點數35倍 | 0.771 |
+
+== 重大變更 ==
+
+| 日期 | 說明 | 連結 | 連結存檔 |
+| ---- | ---- | ---- | -------- |
+| 2021/09/01 | 點數機制更改 | https://www.bookwalker.com.tw/tools/announce | https://web.archive.org/web/20211121183841/https://www.bookwalker.com.tw/tools/announce |
