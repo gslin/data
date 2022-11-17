@@ -5,7 +5,7 @@ import sys
 
 class Main():
     def main(self):
-        costs = list(map(lambda x: int(x), sys.argv[1:]))
+        costs = sorted(map(lambda x: int(x), sys.argv[1:]))
 
         for cnt in range(1, len(costs) + 1):
             for item in itertools.combinations(costs, cnt):
